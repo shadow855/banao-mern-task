@@ -338,7 +338,7 @@ function App() {
 
                 </div>
                 :
-                <div className="create-acc-mobile-small" style={{ border: '0.1px solid red' }}>
+                <div className="create-acc-mobile-small">
                   <div className="d-flex justify-content-between-align-items-center">
                     <div className='create-acc-title' style={{ marginBottom: '20px' }}>Create Account</div>
                     <button type="button" className="btn-close btn-close-mobile-small modal-close-button" data-bs-dismiss="modal" aria-label="Close"></button>
@@ -411,7 +411,7 @@ function App() {
                   <div className='forgotPass'>Forgot Password?</div>
                 </div>
                 :
-                <div className="create-acc-mobile-small" style={{ border: '0.1px solid red' }}>
+                <div className="create-acc-mobile-small">
                   <div className="d-flex justify-content-between-align-items-center">
                     <div className='create-acc-title' style={{ marginBottom: '20px' }}>Welcome Back!</div>
                     <button type="button" className="btn-close btn-close-mobile-small modal-close-button" data-bs-dismiss="modal" aria-label="Close"></button>

@@ -3,6 +3,10 @@
 * {
   font-family: "IBM Plex Sans", cursive;
 }
+
+.modal {
+  z-index: 9999999999;
+}
 .App {
   text-align: center;
 }
